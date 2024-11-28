@@ -11,7 +11,7 @@ Navigate to your **Settings** > **Personal API Keys** page in PostHog.
 
 ### 2. Create a Personal API Key
 Click the **Create personal API key** button for integrations with Userlens.
-
+![screenshot](posthog_integration_step1.png)
 ---
 
 ### 3. Configure the API Key
@@ -25,12 +25,16 @@ A dialogue will appear. Follow these instructions to fill out the form and set p
   - `Event definition`
   - `Query`
   - `Person`
+ 
+  ![screenshot](posthog_integration_step2.png)
 
 ---
 
 ### 4. Copy Your API Key
 Once created, copy your API key. You will use this key to authenticate your integration with Userlens.
 Return to Userlens app.
+
+![screenshot](posthog_integration_step3.png)
 
 ---
 
