@@ -11,6 +11,7 @@ Navigate to your **Settings** > **Personal API Keys** page in PostHog.
 
 ### 2. Create a Personal API Key
 Click the **Create personal API key** button for integrations with Userlens.
+
 ![screenshot](posthog_integration_step1.png)
 ---
 
