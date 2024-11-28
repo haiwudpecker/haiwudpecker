@@ -5,7 +5,7 @@ This guide explains how to integrate PostHog with Userlens.
 ---
 
 ### 1. Access Personal API Keys in PostHog
-Navigate to your **Settings** > **Personal API Keys** page in PostHog.
+Navigate to your [**Settings** > **Personal API Keys**](https://app.posthog.com/settings/user-api-keys) page in PostHog.
 
 ---
 
